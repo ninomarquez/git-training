@@ -1,2 +1,2 @@
-input a username: charles
-input a password: charles1234
+input a username: sam
+input a password: sam123
